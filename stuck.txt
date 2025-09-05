@@ -1,0 +1,130 @@
+BESOINS
+
+
+
+Afin de suivre l'historique d'un inventaire d'école primaire, la responsable a besoin de consulter son inventaire depuis une application mobile mais aussi de le gérer et d'avoir un historique des opérations.
+
+
+
+---------------------------------------------------------------
+
+
+
+NOM
+
+
+
+Stuck - le stock de sue
+
+MyStock
+
+StockManager
+
+
+
+---------------------------------------------------------------
+
+
+
+CHARTE GRAPHIQUE 
+
+
+
+produit ménage, papier, cuisine, autre
+
+--
+
+vert, bleu, violet, orange
+
+
+
+logo carré/rectangle
+
+étagère bien rangé avec "Sue" entre les éléments 
+
+
+
+---------------------------------------------------------------
+
+
+
+TABLEAU 1
+
+
+
+stock actuelle :
+
+
+
+nom produit, 
+
+unité de comptage, 
+
+référence, 
+
+stock actuelle, 
+
+date du changement d'opération, 
+
+quel service (A-R)
+
+--
+
+désignation, 
+
+cdt, 
+
+ref, 
+
+stock, 
+
+date,
+
+service.
+
+
+
+---------------------------------------------------------------
+
+
+
+TABLEAU 2
+
+
+
+historique des opérations :
+
+
+
+nom du produit, 
+
+unité de comptage,
+
+référence, 
+
+stock avant modification, 
+
+modification,
+
+stock après modification,
+
+quel service.
+
+--
+
+désignation,
+
+cdt,
+
+ref,
+
+avant,
+
+changement,
+
+après,
+
+service.
+
+
+28 mai 2025
